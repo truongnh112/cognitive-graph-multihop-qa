@@ -1,3 +1,9 @@
+# My demo after reimplement
+
+
+![321291102_1314173659428957_35759044199618865_n](https://github.com/truongnh112/cognitive-graph-multihop-qa/assets/72876993/d11133a8-a89e-441b-bf8e-66aa573a2f61)
+
+
 # CogQA
 
 ### [Project](https://sites.google.com/view/cognitivegraph/) | [arXiv](https://arxiv.org/abs/1905.05460)
